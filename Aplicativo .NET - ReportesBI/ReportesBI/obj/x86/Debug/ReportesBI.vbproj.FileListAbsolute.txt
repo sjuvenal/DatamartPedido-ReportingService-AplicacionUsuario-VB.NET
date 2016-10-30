@@ -1,0 +1,11 @@
+C:\Users\Juvenal\AppData\Local\Temporary Projects\ReportesBI\bin\Debug\ReportesBI.exe
+C:\Users\Juvenal\AppData\Local\Temporary Projects\ReportesBI\bin\Debug\ReportesBI.pdb
+C:\Users\Juvenal\AppData\Local\Temporary Projects\ReportesBI\bin\Debug\ReportesBI.xml
+C:\Users\Juvenal\AppData\Local\Temporary Projects\ReportesBI\obj\x86\Debug\ReportesBI.vbprojResolveAssemblyReference.cache
+C:\Users\Juvenal\AppData\Local\Temporary Projects\ReportesBI\obj\x86\Debug\ReportesBI.MdiReportes.resources
+C:\Users\Juvenal\AppData\Local\Temporary Projects\ReportesBI\obj\x86\Debug\ReportesBI.Reportes.resources
+C:\Users\Juvenal\AppData\Local\Temporary Projects\ReportesBI\obj\x86\Debug\ReportesBI.Resources.resources
+C:\Users\Juvenal\AppData\Local\Temporary Projects\ReportesBI\obj\x86\Debug\ReportesBI.vbproj.GenerateResource.Cache
+C:\Users\Juvenal\AppData\Local\Temporary Projects\ReportesBI\obj\x86\Debug\ReportesBI.exe
+C:\Users\Juvenal\AppData\Local\Temporary Projects\ReportesBI\obj\x86\Debug\ReportesBI.xml
+C:\Users\Juvenal\AppData\Local\Temporary Projects\ReportesBI\obj\x86\Debug\ReportesBI.pdb
